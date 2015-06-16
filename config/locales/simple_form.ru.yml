@@ -1,0 +1,12 @@
+ru:
+  simple_form:
+    "yes": 'Да'
+    "no": 'Нет'
+    required:
+      text: 'Поле обязательно для заполнения'
+      mark: '*'
+    error_notification:
+      default_message: "Были обнаружены следующие ошибки:"
+    hints:
+      #calculator_form:
+      #  color: Cтоимость слкладывается из стоимости серой плитки, а так же используемых красителей.

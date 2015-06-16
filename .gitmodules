@@ -1,0 +1,12 @@
+[submodule "vendor/assets/libraries/jQuery-File-Upload"]
+	path = vendor/assets/libraries/jQuery-File-Upload
+	url = https://github.com/blueimp/jQuery-File-Upload
+[submodule "vendor/assets/libraries/JavaScript-Load-Image"]
+	path = vendor/assets/libraries/JavaScript-Load-Image
+	url = https://github.com/blueimp/JavaScript-Load-Image
+[submodule "vendor/assets/libraries/JavaScript-Canvas-to-Blob"]
+	path = vendor/assets/libraries/JavaScript-Canvas-to-Blob
+	url = https://github.com/blueimp/JavaScript-Canvas-to-Blob
+[submodule "vendor/assets/libraries/JavaScript-Templates"]
+	path = vendor/assets/libraries/JavaScript-Templates
+	url = https://github.com/blueimp/JavaScript-Templates

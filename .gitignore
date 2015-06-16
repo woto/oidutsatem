@@ -15,3 +15,10 @@
 /log/*
 !/log/.keep
 /tmp
+
+# Ignore VIM
+*.swl
+*.swm
+*.swn
+*.swo
+*.swp

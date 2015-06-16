@@ -1,16 +1,20 @@
-// This is a manifest file that'll be compiled into application.js, which will include all the files
-// listed below.
-//
-// Any JavaScript/Coffee file within this directory, lib/assets/javascripts, vendor/assets/javascripts,
-// or any plugin's vendor/assets/javascripts directory can be referenced here using a relative path.
-//
-// It's not advisable to add code directly here, but if you do, it'll appear at the bottom of the
-// compiled file.
-//
-// Read Sprockets README (https://github.com/rails/sprockets#sprockets-directives) for details
-// about supported directives.
-//
 //= require jquery
+//= require bootstrap-sprockets
 //= require jquery_ujs
 //= require turbolinks
-//= require_tree .
+
+//= require jQuery-File-Upload/js/vendor/jquery.ui.widget
+//= require JavaScript-Templates/js/tmpl.min
+//= require JavaScript-Load-Image/js/load-image.all.min
+//= require JavaScript-Canvas-to-Blob/js/canvas-to-blob.min
+//= require Gallery/js/jquery.blueimp-gallery.min
+//= require jQuery-File-Upload/js/jquery.iframe-transport
+//= require jQuery-File-Upload/js/jquery.fileupload
+//= require jQuery-File-Upload/js/jquery.fileupload-process
+//= require jQuery-File-Upload/js/jquery.fileupload-image
+//= require jQuery-File-Upload/js/jquery.fileupload-audio
+//= require jQuery-File-Upload/js/jquery.fileupload-video
+//= require jQuery-File-Upload/js/jquery.fileupload-validate
+//= require jQuery-File-Upload/js/jquery.fileupload-ui
+
+//= require collections
