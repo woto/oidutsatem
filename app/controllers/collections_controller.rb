@@ -10,7 +10,7 @@ class CollectionsController < ApplicationController
         # TODO
       end
       format.json do
-        @collections = Collection.order(:id => :desc).all
+        @collections = Collection.where(user_id: current_user.id).order(:id => :asc).all
       end
     end
   end
@@ -19,6 +19,7 @@ class CollectionsController < ApplicationController
   # POST /collections.json
   def create
     @collection = Collection.new(collection_params)
+    @collection.user = current_user
     @collections = [@collection]
 
     respond_to do |format|
