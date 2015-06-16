@@ -1,10 +1,6 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
-// blueimp Gallery styles
-@import "Gallery/css/blueimp-gallery.min";
-
-// CSS to style the file input field as button and adjust the Bootstrap progress bars
 @import "jQuery-File-Upload/css/jquery.fileupload";
 @import "jQuery-File-Upload/css/jquery.fileupload-ui";
 

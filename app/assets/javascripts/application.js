@@ -7,7 +7,6 @@
 //= require JavaScript-Templates/js/tmpl.min
 //= require JavaScript-Load-Image/js/load-image.all.min
 //= require JavaScript-Canvas-to-Blob/js/canvas-to-blob.min
-//= require Gallery/js/jquery.blueimp-gallery.min
 //= require jQuery-File-Upload/js/jquery.iframe-transport
 //= require jQuery-File-Upload/js/jquery.fileupload
 //= require jQuery-File-Upload/js/jquery.fileupload-process
